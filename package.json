@@ -1,6 +1,6 @@
 {
   "name": "copy-unpkg-to-clipboard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "@coveo/atomic result component starter",
   "main": "dist/index.cjs.js",
   "module": "dist/index.js",
